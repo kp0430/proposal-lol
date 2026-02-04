@@ -49,7 +49,7 @@ noBtn.addEventListener('click', function() {
 });
 
 yesBtn.addEventListener('click', function() {
-    question.textContent = "Yay! I knew you'd say yes!";
+    question.textContent = "Yippee!";
     
     gif.src = "https://media.tenor.com/SLglGuVqz4oAAAAi/cat-jumping-catjump.gif";
     
